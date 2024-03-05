@@ -3,3 +3,5 @@
 -este  es un ejemplo
 
 ```npm install project```
+
+-detalles del proyecto:
